@@ -14,25 +14,25 @@ aside:
 
 ### Instructor
 
-* **Instructor:** Dr. David Balash
-* **Email:** [david.balash@richmond.edu](mailto:david.balash@richmond.edu)
-* **Office Hours:** (Jepson 223)
-  * Tue 4:30PM - 5:30PM
-  * Fri 3:00PM - 5:00PM
-  * and by appointment at [https://calendly.com/davidbalash](https://calendly.com/davidbalash) or by email
+* **Instructor:** Dr. Doug Szajda
+* **Email:** [dszajda@richmond.edu](mailto:dszajda@richmond.edu)
+* **Office Hours:** (Jepson 219)
+  * Tue 1:30PM - 2:30PM
+  * Fri 1:00PM - 2:00PM
+  * and by appointment (email me or catch me before or after class to schedule)
 * **Prerequisites:** CMSC 221 with a minimum grade of C- (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
 
 ### Meeting Times
 
 ## Class/Lab Info
-* Lecture (Jepson G04)
-  * Tue 10:30AM - 11:45AM
-  * Thr 10:30AM - 11:45AM
-* Lab (Jespson G03)
-  * Fri 10:30AM - 11:20AM
+* Lecture (Jeppson 103A)
+  * Tue 12:00PM - 1:15PM
+  * Thr 12:00PM - 1:15PM
+* Lab (Jespson 103A)
+  * Fri 12:00PM - 12:50PM
 
 ### Course Staff
-- Dr. David Balash - Instructor
+- Dr. Doug Szajda - Instructor
 - Padmaja Karki - Lab Assistant
 - Maggie Song - Grader
 - Aris Karamustafić - Course Mentor
@@ -50,7 +50,7 @@ Introduction to techniques necessary for development of large-scale software sys
 ### Learning Outcomes
 By the end of this course, you will:
 
-- Experience modern C++ programming
+- Experience modern (this refers to a collection of versions of the language) C++ programming
 - Gain familiarity with Unix/Linux environments
 - Understand the software development life cycle 
 - Practice object-oriented programming and design
@@ -117,8 +117,8 @@ The course will be **programming-intensive**. You will be submitting one lab ass
 You are expected to submit well-written code:
 
 - Comments must be substantive.
-- Select descriptive and readable variable names and method names.
-- Use consistent indentation (preferred: four spaces).
+- Choose descriptive and readable variable names and method names.
+- Use consistent indentation (preferred: four spaces, though consistent and reasonable is the requirement).
 - Submit code that compiles.
   - Additionally, your code should be compile in a standard, pre-described way for the class (e.g., via the `g++` compiler)
 - Be able to describe and answer questions about your code when prompted.
@@ -162,7 +162,9 @@ There are four in-class quizzes. Each quiz is worth 5% of your grade, for a tota
 
 ## Class Communication
 
-I will use two primary forms of communication in this class: email announcements and Slack. You are responsible for remaining up to date on any information sent by email or posted to Slack. This may include clarifications to assignments, updates on grading rubrics, and changes in office hours. 
+I will use two primary forms of communication in this class: email announcements and Slack. You are responsible for remaining up to date on any information sent by email or posted to Slack. This may include clarifications to assignments, updates on grading rubrics, and changes in office hours. The Slack group
+for this class is shared with Dr. Balash's section, so you may see comments from either of us.  In most
+cases, comments from either of us will apply to both class sections.
 
 For all general course information, questions, and clarifications, please use Slack. I hope that the Slack workspace can be an extension of our classroom community where we can share questions and answers for the entire class to view and learn from.
 
