@@ -266,5 +266,5 @@ If you or someone you know is feeling suicidal or in danger of self-harm, call s
 
 ## Acknowledgments
 
-Much of the material for this course comes from previous iterations taught by [Prof. Doug Szajda](https://cs.richmond.edu/faculty/dszajda/) ([Spring 2023](https://facultystaff.richmond.edu/~dszajda/classes/cs240/Spring_2023/)). Material was also adopted with permission from The George Washington University course CS  2113 taught by Prof. Adam Aviv and others. Thank you. 
+Some of the material for this course comes from previous iterations taught by [Prof. David Balash](https://cs.richmond.edu/faculty/dbalash/) ([Spring 2024](https://cmsc240-s24.github.io/)). Material was also adopted with permission from The George Washington University course CS 2113 taught by Prof. Adam Aviv and others. Thank you. 
 
