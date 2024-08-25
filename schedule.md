@@ -12,6 +12,7 @@ title: Schedule
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
 | 1    | August 26:  <br />Read Text: Chapter 2<br />Read [Unix Tutorial](https://users.cs.duke.edu/~alvy/courses/unixtut/): Intro, T1, T2, T3<br />Slides: [Introduction](lectures/01-Introduction.pdf)              | August 28:  <br /> Slides: [C++ Basics](lectures/02-Language-Basics.pdf)<br /> Module 1: [Hello C++](modules/module1.md) (Due Thu Sept 5) <br />Read [Unix Tutorial](https://users.cs.duke.edu/~alvy/courses/unixtut/): T4, T5, T6                                     | August 29: <br />Lab 1: [Linux Basics](https://classroom.github.com/a/oLC4PMiw) (Due Thr Sept 5)                  |
+<!
 | 2    | Sept 3: <br />Read Text: Chapter 3<br /> Slides: [Strings and Functions](lectures/03-Strings-Functions.pdf) <br/>Module 2: [Functions, Strings, and Command-Line Arguments](modules/module2.md) (Due Tue Sept 10)    | Sept 5: <br /> Slides: [Collections and File I/O](lectures/04-Collections-FileIO.pdf) <br/>Module 3: [Arrays, Vectors, and File I/O](modules/module3.md) (Due Thr Sept 12)     | Sept 6: <br /> Lab 2: [File I/O](labs/lab2.md)  (Due Thr Sept 12)               |
 | 3    | Jan 30: <br />Read Text: Chapter 17 <br />Slides: [Pointers and Memory](lectures/05-Memory-Pointers.pdf)     | Feb 1: <br />Slides: [References and Heap](lectures/06-References-Heap.pdf)       | Feb 2:  <br />Lab 3: [Pointers and References](labs/lab3.md) (Due Thr Feb 8)               |
 | 4    | Feb 6: <br />Read Text: Chapter 5 <br />Slides: [Debugging](lectures/07-Debugging.pdf) <br />[Quiz Review](lectures/quiz1-review.md)    | Feb 8: <br />Slides: [Errors and Exception Handling](lectures/08-Error-Handling.pdf)<br /> **Quiz 1**      | Feb 9:   <br />Lab 4: [Debugging and Exception Handling](labs/lab4.md)  (Due Thr Feb 15)            |
@@ -27,6 +28,7 @@ title: Schedule
 | 14   | Apr 16:<br /> Slides: [Software Development Life Cycle](lectures/24-Software-Development-Life-Cycle.pdf) <br /> [Quiz Review](lectures/quiz4-review.md)     | Apr 18: <br /> Slides: [Design Patterns](lectures/25-Design-Patterns.pdf)<br /> **Quiz 4**    | Apr 19: <br />**Work on Project**  <br /> __Altered schedule for [Convocation](https://registrar.richmond.edu/planning/schedule/convocation.html)__<br /> __Lab starts at 9:50AM__               |
 | 15   | Apr 23: <br />Slides: [C++ Security Vulnerabilities](lectures/26-Security-Risks.pdf) <br />[Class Announcements](announcements.md)    | Apr 25: <br>[Course Evals](https://www.richmond.edu/evalsys)<br />__Work on Project__     | Apr 26: <br />**Project Part 3,4: Implementation and Testing DUE**<br />**Demonstrate working project in lab**              |
 | 16   |             | May 1 (<u>Wed 2pm</u>):<br /> **Project Presentations**           |                        |
+-- -->
 
 
 
