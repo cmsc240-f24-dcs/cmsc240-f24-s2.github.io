@@ -215,6 +215,7 @@ man diff
 
 - **What does `diff -w` do in general and with the specified flag?**
 
+## ** this should do nothing **
 
 ___
 
