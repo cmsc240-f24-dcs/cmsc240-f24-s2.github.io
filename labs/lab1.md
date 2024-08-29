@@ -7,7 +7,7 @@ permalink: lab/1
 
 * Work through the exercises below and add your answers to the `README.md` file in GitHub repository for this lab.
 * Use the GitHub classroom link below to create your repository.
-* Github Classroom Link: [https://classroom.github.com/a/RVNRm5b-](https://classroom.github.com/a/RVNRm5b-)
+* Github Classroom Link: [https://classroom.github.com/a/ESaEZNT6](https://classroom.github.com/a/ESaEZNT6)
 
 
 ### Objectives
@@ -33,7 +33,7 @@ The goal of this lab is to gain exposure to the Unix/Linux environment and the c
 
 # Unix/Linux <a class="anchor" id="unix"></a>
 
-On our course web page [schedule](https://cmsc240-s24.github.io/schedule.html), follow the link to the Unix tutorials reading (tutorial URL is https://users.cs.duke.edu/~alvy/courses/unixtut/). This tutorial can be used to help you while working on this lab. Please complete the exercises below by following the directions and answering directly in this README.md file. You must save your work, commit, and push the changes to your GitHub classroom repository. For all the following exercises, you should use cs01 - cs06.richmond.edu.  You can access the terminals by typing `ssh usernam@cs01.richmond.edu`, where `username` is your UR netid. Or use the terminal in a remotely connected VSCode window.
+On our course web page [schedule](https://cmsc240-f24-dcs.github.io/cmsc240-f24-s2.github.io/schedule.html), follow the link to the Unix tutorials reading (tutorial URL is https://users.cs.duke.edu/~alvy/courses/unixtut/). This tutorial can be used to help you while working on this lab. Please complete the exercises below by following the directions and answering directly in this README.md file. You must save your work, commit, and push the changes to your GitHub classroom repository. For all the following exercises, you should use cs01 - cs06.richmond.edu.  You can access the terminals by typing `ssh usernam@cs01.richmond.edu`, where `username` is your UR netid. Or use the terminal in a remotely connected VSCode window.
 
  
 ## Exercise 1: <a class="anchor" id="exercise_1"></a>
@@ -215,7 +215,6 @@ man diff
 
 - **What does `diff -w` do in general and with the specified flag?**
 
-## ** this should do nothing **
 
 ___
 
