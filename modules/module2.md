@@ -6,7 +6,7 @@ permalink: module/2
 # Module 2: Functions, Strings, and Command Line Arguments
 
 * First read this page then start coding module with the GitHub classroom link below.
-* Github Classroom Link: [https://github.com/cmsc240-f24-dcs/module-2-strings-functions-arguments.git](https://github.com/cmsc240-f24-dcs/module-2-strings-functions-arguments.git)
+* Github Classroom Link: [https://classroom.github.com/a/Rc3i-tKR](https://classroom.github.com/a/Rc3i-tKR)
 
 
 ## Exercise 1: <a class="anchor" id="exercise_1"></a>
