@@ -13,7 +13,7 @@ In this lecture, we will delve into key concepts of C++ and object-oriented desi
 
 ### Instructions
 
-Complete the in-class exercises inside the module-6 repository here:  [https://classroom.github.com/a/9r7yX0xl](https://classroom.github.com/a/9r7yX0xl)
+Complete the in-class exercises inside the module-6 repository here:  [https://classroom.github.com/a/QgZkKSi6](https://classroom.github.com/a/QgZkKSi6)
 
 ### Lecture Topics
 - [Scope](#scope)
