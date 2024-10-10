@@ -83,4 +83,4 @@ Now let’s walk through some intentionally buggy example programs, demonstratin
 
 ### Acknowledgements
 
-This lab is based on the Valgrind lab created by Prof. Doug Szajda at UR and Prof. Will Jones at Clemson University. 
+This lab is based on the Valgrind lab created by Prof. Barry Lawson at UR and Prof. Will Jones at Clemson University. 
