@@ -19,8 +19,7 @@ title: Schedule
 | 6    | Oct 1: <br />Lecture Notes: [Scope, Friends, Destructors, Composition, and UML](lectures/11)<br /> Module 6: [Scope, Friends, Destructors, Composition, and UML](https://classroom.github.com/a/QgZkKSi6)(Due Tues Oct 8)     | Oct. 3:<br />Slides: [Inheritance, Polymorphism, Virtual Functions, Abstract Classes](lectures/12-Inheritance-Polymorphism.pdf) <br />[Live Code](https://prod.liveshare.vsengsaas.visualstudio.com/join?8A288CC00A7D8A4AC7BD030C414A1B8F7B69)    | Oct 4: <br />Lab 6: [Inheritance and Polymorphism](labs/lab6.md) (Due Oct. 10)               |
 | 7    | Oct 8: <br /> [Quiz Review](lectures/quiz2-review.md)    | Oct. 10 : <br /> Lecture Notes: [Memory Leaks and Memory Violations](lectures/14) <br /> **Quiz 2**    | Oct 11:  <br />Lab 7: [Valgrind - Memory debugging tool](labs/lab7.md) (Due Thr Oct 17)    |
 | 8    | Oct 15: **Fall Break**   | Oct. 17: <br /> Lecture Notes: [Regular Expressions in C++](lecture/16) <br /> Module 8: [Regular Expressions](https://classroom.github.com/a/Bsy7kVqs) (Due Thr Oct. 24)       | Oct. 18:  <br /> Lab 8: [Regular Expressions in C++ and Linux](labs/lab8.md) (Due Thr Oct. 24)                            |
-| 9    | Oct. 22: | Oct. 24: | Oct 25:              |
-| 10   | Oct. 29: | Oct. 31: | Nov. 1:             |
+| 9    | Oct. 22: <br />Slides: [Make and Makefiles](lectures/15-Make-Makefiles.pdf)  <br /> Module 7: [Build Automation with Make](modules/module7.md) (Due Tue Oct. 29)  | Oct. 24: <br /> Slides: [C++ Templates](lectures/18-Templates.pdf) <br /> Module 10: [Templates](modules/module10.md) (Due Thr Oct. 31)    | Oct 25:      <br />[Lab 9 Templates](https://cmsc240-s24.github.io/lab/9) (Due Thr Nov. 7)            |
 | 11   | Nov. 5:     | Nov. 7:  <br /> **Quiz 3**    | Nov. 8:            |
 | 12   | Nov. 12:    | Nov. 14:  | Nov. 15:         |
 | 13   | Nov. 19: | Nov. 21:  | Nov. 22:           |
