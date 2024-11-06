@@ -28,7 +28,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 1: Team Creation and Proposal
 
-### Due:  Thursday April 4th
+### Due:  Friday November 8th
 
 #### Task: 
 * Each team will brainstorm and propose an idea for a REST API. 
@@ -44,7 +44,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 2: Design Document Creation
 
-### Due: Friday April 12th
+### Due: Friday November 15
 
 * Create a detailed design document for the proposed API. 
 * The document should include:
@@ -63,7 +63,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 3: Implementation
 
-### Due: Friday April 26th 
+### Due: Friday December 6th
 
 * Implement the API in C++ using the Crow framework.
 * Develop the RESTful API endpoints as per the design document.
@@ -85,7 +85,7 @@ This project presents an opportunity for teams to creatively explore API develop
 
 ## Part 4: Unit Testing
 
-### Due: Friday April 26th
+### Due: Friday December 6th
 
 * Develop a suite of unit tests using a testing framework.
 * __Testing Scope__: Cover all critical functionalities and endpoints.
