@@ -6,7 +6,7 @@ permalink: module/16
 # Module 16: C++ Copy and Move Semantics
 
 * First read this page, then start the module with the GitHub classroom link below.  
-* Github Classroom Link: [https://classroom.github.com/a/Uy_eS2yp](https://classroom.github.com/a/Uy_eS2yp)  
+* Github Classroom Link: [https://classroom.github.com/a/M4lxx4P7](https://classroom.github.com/a/M4lxx4P7)  
 
 ---
 
