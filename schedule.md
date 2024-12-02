@@ -24,8 +24,8 @@ title: Schedule
 | 11   | Nov. 5: <br />  [Project Description and Grading Rubric](project)  <br /> [Quiz Review](lectures/quiz3-review.md)   | Nov. 7: **Quiz 3**  <br /> Module 12: [REST APIs Part 2](modules/module12.md) (Due Thr Nov. 14)<br />   | Nov. 8:   <br />**Project Part 1: Proposal DUE**  <br /> **Proposal Review in Lab** <br />    |
 | 12   | Nov. 12:  <br /> Module 13: [REST APIs Part 3](modules/module13.md) (Due Tue Nov. 19)   | Nov. 14: <br /> Slides: [Smart Pointers](lectures/22-Smart-Pointers.pdf) <br /> Module 14: [C++ Smart Pointers](modules/module14.md) (Due Thr Nov. 21)     | Nov. 15:   <br />**Project Part 2: Design DUE**       |
 | 13   | Nov. 19: <br /> Slides: [Build Pipelines](lectures/23-Build-Pipelines.pdf) <br /> Lecture Notes: [Unit Testing](notes/UnitTesting.md) <br /> Module 15: [Build Pipelines](modules/module15.md) (Due Tue Nov. 26) | Nov. 21: <br /> Slides: [Copy and Move Semantics](lectures/Copy-Move-Semantics.pdf) <br /> Module 16: [Copy and Move Semantics](modules/module16.md) (Due Tue Dec. 3) <br /> Project Example: [Music Store](https://github.com/cmsc240-s24/MusicStore)<br />[Guide to Markdown](https://www.markdownguide.org/cheat-sheet/)  <br />[Project Presentation Guidelines](presentation.md)  | Nov. 22:   <br /> **Work on Project**         |
-| 14   | Nov. 26:    | Nov. 28: **Thanksgiving Break**  | Nov. 29: **Thanksgiving Break**   |
-| 15   | Dec. 3:  | Dec. 5: **Quiz 4**   | Dec. 6:           |
+| 14   | Nov. 26:  | Nov. 28: **Thanksgiving Break**  | Nov. 29: **Thanksgiving Break**   |
+| 15   | Dec. 3: <br /> Slides: [Software Development Life Cycle](lectures/24-Software-Development-Life-Cycle.pdf)  | Dec. 5: br /> Slides: [Design Patterns](lectures/25-Design-Patterns.pdf)<br /> **Quiz 4**   | Dec. 6:   <br />**Project Part 3,4: Implementation and Testing DUE**<br />        |
 | 16   |  Dec. 10 (<u>Wed 2pm</u>):<br /> **Project Presentations**           |                        |
 {% comment %}             
 | 8    | Mar 5: <br />Slides: [Make and Makefiles](lectures/15-Make-Makefiles.pdf)  <br /> Module 7: [Build Automation with Make]
